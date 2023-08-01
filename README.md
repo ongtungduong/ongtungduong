@@ -1,5 +1,6 @@
-# Hi there, I'm Ong Tung Duong! 🚀
-## DevOps Engineer | Kubernetes Enthusiast
+# Hi there, I'm Ong Tung Duong! A passionate DevOps Engineer 🚀
+
+## About me
 
 Learning new things as well as imparting my experience with others are two of my biggest enjoyments since they help me comprehend things more clearly and make me a better person every day. Working in a fast-paced, creative workplace provides me with many possibilities and challenges, which keeps me motivated. I place a high emphasis on teamwork, dialogue, and constructive criticism, and I work hard to make a positive difference for my group and company.
 
