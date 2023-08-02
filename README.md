@@ -2,7 +2,7 @@
 
 ## About me
 
-Learning new things as well as imparting my experience with others are two of my biggest enjoyments since they help me comprehend things more clearly and make me a better person every day. Working in a fast-paced, creative workplace provides me with many possibilities and challenges, which keeps me motivated. I place a high emphasis on teamwork, dialogue, and constructive criticism, and I work hard to make a positive difference for my group and company.
+I possess an unwavering enthusiasm for continual learning and knowledge dissemination, constantly endeavoring to enhance my personal growth. My ambition lies in attaining proficiency as a seasoned DevOps specialist, fostering seamless cohesion and effectiveness between development and operations factions. Flourishing amidst innovative and demanding workplace settings, I prioritize teamwork, effective communication, and the receptive assimilation of constructive criticism.
 
 [![Website](./images/otd-cover.png)](https://ongtungduong.super.site)
 
