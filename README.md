@@ -2,7 +2,7 @@
 
 ## About me
 
-I possess an unwavering enthusiasm for continual learning and knowledge dissemination, constantly endeavoring to enhance my personal growth. My ambition lies in attaining proficiency as a seasoned DevOps specialist, fostering seamless cohesion and effectiveness between development and operations factions. Flourishing amidst innovative and demanding workplace settings, I prioritize teamwork, effective communication, and the receptive assimilation of constructive criticism.
+I'm deeply passionate about learning and sharing knowledge, always striving to grow personally and professionally. My goal is to become a skilled DevOps specialist, bridging the gap between development and operations seamlessly. I thrive in dynamic work environments, valuing teamwork, clear communication, and constructive feedback.
 
 [![Website](./images/otd-cover.png)](https://ongtungduong.super.site)
 
